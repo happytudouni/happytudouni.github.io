@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wanze Xie</title>
+    <link>https://happytudouni.github.io/authors/admin/</link>
+      <atom:link href="https://happytudouni.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wanze Xie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://happytudouni.github.io/img/static/img/LABID.jpg</url>
+      <title>Wanze Xie</title>
+      <link>https://happytudouni.github.io/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://happytudouni.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Welcome! I am a developmental cognitive neuroscientist working in the Nelson lab at Boston Children&amp;rsquo;s Hospital. My research investigates the neurodevelopmental origin of social attention by studying the neural correlates of child visual attention and social perception from a brain network perspective. My recent work also involves the examination of how early adverse experiences would impact children’s brain health and cognitive outcomes. My research integrates a combination of behavioral (child looking behaviors), physiological (ECG and EEG/ERP), and neuroimaging (Cortical source localization, fNIRS and MRI) techniques.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swapna Kumar | Wanze Xie</title>
+    <link>https://happytudouni.github.io/authors/swapna-kumar/</link>
+      <atom:link href="https://happytudouni.github.io/authors/swapna-kumar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Swapna Kumar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://happytudouni.github.io/img/static/img/LABID.jpg</url>
+      <title>Swapna Kumar</title>
+      <link>https://happytudouni.github.io/authors/swapna-kumar/</link>
+    </image>
+    
+    <item>
+      <title>Growth measures predict brain functional connectivity and cognitive outcomes in urban Bangladeshi children exposed to early adversities</title>
+      <link>https://happytudouni.github.io/publication/xie-2019-stunting/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/xie-2019-stunting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural correlates of early adversity among Bangladeshi infants</title>
+      <link>https://happytudouni.github.io/publication/jensen-2019-sr/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/jensen-2019-sr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

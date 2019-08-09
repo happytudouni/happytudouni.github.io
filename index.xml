@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wanze Xie</title>
+    <link>https://happytudouni.github.io/</link>
+      <atom:link href="https://happytudouni.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wanze Xie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://happytudouni.github.io/img/static/img/LABID.jpg</url>
+      <title>Wanze Xie</title>
+      <link>https://happytudouni.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Growth measures predict brain functional connectivity and cognitive outcomes in urban Bangladeshi children exposed to early adversities</title>
+      <link>https://happytudouni.github.io/publication/xie-2019-stunting/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/xie-2019-stunting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The neural sources of N170: Understanding timing of activation in face‐selective areas</title>
+      <link>https://happytudouni.github.io/publication/gao-2019-psychophysiology/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/gao-2019-psychophysiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural correlates of facial emotion processing in infancy</title>
+      <link>https://happytudouni.github.io/publication/xie-2019-emotion/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/xie-2019-emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural correlates of early adversity among Bangladeshi infants</title>
+      <link>https://happytudouni.github.io/publication/jensen-2019-sr/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/jensen-2019-sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of brain functional connectivity and its relation to infant sustained attention in the first year of life</title>
+      <link>https://happytudouni.github.io/publication/xie-2019-fc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/xie-2019-fc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of infant sustained attention and its relation to EEG oscillations: An EEG and cortical source analysis study</title>
+      <link>https://happytudouni.github.io/publication/xie-2018-attnpow/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/xie-2018-attnpow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Relation between Infant Covert Orienting, Sustained Attention and Brain Activity</title>
+      <link>https://happytudouni.github.io/publication/xie-2017-bt/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/xie-2017-bt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A database of age-appropriate average MRI templates</title>
+      <link>https://happytudouni.github.io/publication/richards-2016-ni/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/richards-2016-ni/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
