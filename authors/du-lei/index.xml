@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Du Lei | Wanze Xie</title>
+    <link>https://happytudouni.github.io/authors/du-lei/</link>
+      <atom:link href="https://happytudouni.github.io/authors/du-lei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Du Lei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://happytudouni.github.io/img/static/img/LABID.jpg</url>
+      <title>Du Lei</title>
+      <link>https://happytudouni.github.io/authors/du-lei/</link>
+    </image>
+    
+    <item>
+      <title>The construction of MRI brain/head templates for Chinese children from 7 to 16 years of age</title>
+      <link>https://happytudouni.github.io/publication/xie-2015-dcn/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/xie-2015-dcn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of the brain development trajectory between Chinese and US children and adolescents</title>
+      <link>https://happytudouni.github.io/publication/xie-2015-frontiers/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/xie-2015-frontiers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

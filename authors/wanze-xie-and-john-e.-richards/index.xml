@@ -5,7 +5,7 @@
     <link>https://happytudouni.github.io/authors/wanze-xie-and-john-e.-richards/</link>
       <atom:link href="https://happytudouni.github.io/authors/wanze-xie-and-john-e.-richards/index.xml" rel="self" type="application/rss+xml" />
     <description>Wanze Xie and John E. Richards</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://happytudouni.github.io/img/static/img/LABID.jpg</url>
       <title>Wanze Xie and John E. Richards</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Effects of interstimulus intervals on behavioral, heart rate, and event-related potential indices of infant engagement and sustained attention</title>
-      <link>https://happytudouni.github.io/publication/xie-2016-psy/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://happytudouni.github.io/publication/xie-2016-psy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Relation between Infant Covert Orienting, Sustained Attention and Brain Activity</title>
       <link>https://happytudouni.github.io/publication/xie-2017-bt/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://happytudouni.github.io/publication/xie-2017-bt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of interstimulus intervals on behavioral, heart rate, and event-related potential indices of infant engagement and sustained attention</title>
+      <link>https://happytudouni.github.io/publication/xie-2016-psyp/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/xie-2016-psyp/</guid>
       <description></description>
     </item>
     
