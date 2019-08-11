@@ -5,12 +5,20 @@
     <link>https://happytudouni.github.io/tags/</link>
       <atom:link href="https://happytudouni.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://happytudouni.github.io/img/static/img/LABID.jpg</url>
       <title>Tags</title>
       <link>https://happytudouni.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://happytudouni.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

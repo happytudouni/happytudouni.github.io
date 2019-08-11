@@ -204,6 +204,28 @@
   </url>
   
   <url>
+    <loc>https://happytudouni.github.io/project/bean/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://happytudouni.github.io/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://happytudouni.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://happytudouni.github.io/tags/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://happytudouni.github.io/publication/richards-2016-ni/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -269,11 +291,6 @@
   
   <url>
     <loc>https://happytudouni.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://happytudouni.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
