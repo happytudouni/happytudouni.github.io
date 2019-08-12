@@ -2,8 +2,8 @@
   "name": "Wanze Xie",
   "short_name": "Wanze Xie",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "hsl(193, 87%, 69%)",
+  "background_color": "hsl(193, 87%, 69%)",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
