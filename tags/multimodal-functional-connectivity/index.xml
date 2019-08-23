@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Wanze Xie</title>
-    <link>https://happytudouni.github.io/project/</link>
-      <atom:link href="https://happytudouni.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Multimodal Functional Connectivity | Wanze Xie</title>
+    <link>https://happytudouni.github.io/tags/multimodal-functional-connectivity/</link>
+      <atom:link href="https://happytudouni.github.io/tags/multimodal-functional-connectivity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multimodal Functional Connectivity</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://happytudouni.github.io/img/static/img/LABID.jpg</url>
-      <title>Projects</title>
-      <link>https://happytudouni.github.io/project/</link>
+      <title>Multimodal Functional Connectivity</title>
+      <link>https://happytudouni.github.io/tags/multimodal-functional-connectivity/</link>
     </image>
     
     <item>
@@ -21,14 +21,6 @@
 
 &lt;p&gt;We will compare the functional connectivity from both modalities within the same network(s) and between the same brain ROIs. The brain functional connectivity and network (e.g., graph theory) measures from both metrics will then be associated with adverse experiences (e.g., SES and inflammation) and will be used to predict cognitive outcomes. The predictive power of each modality and class of metrics will be assessed separately and together.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://happytudouni.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://happytudouni.github.io/project/external-project/</guid>
-      <description></description>
     </item>
     
   </channel>

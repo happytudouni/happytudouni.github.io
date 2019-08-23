@@ -5,7 +5,7 @@
     <link>https://happytudouni.github.io/tags/</link>
       <atom:link href="https://happytudouni.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://happytudouni.github.io/img/static/img/LABID.jpg</url>
       <title>Tags</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://happytudouni.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://happytudouni.github.io/tags/deep-learning/</guid>
+      <title>Multimodal Functional Connectivity</title>
+      <link>https://happytudouni.github.io/tags/multimodal-functional-connectivity/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/tags/multimodal-functional-connectivity/</guid>
       <description></description>
     </item>
     
