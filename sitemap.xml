@@ -214,12 +214,18 @@
   </url>
   
   <url>
-    <loc>https://happytudouni.github.io/project/eeg-fnirs-functional-connectivity-project/eegfnirs/</loc>
+    <loc>https://happytudouni.github.io/project/eeg-and-fnirs-functional-connectivity-project/eegfnirs/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://happytudouni.github.io/tags/early-adversity/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://happytudouni.github.io/tags/multimodal-network-analysis/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
