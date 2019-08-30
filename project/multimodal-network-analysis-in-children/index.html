@@ -600,6 +600,22 @@
     Colleague -- Charles A. Nelson
   </a>
 
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://jerlab.sc.edu/projects/neurodevelopmental-mri-database/" target="_blank" rel="noopener">
+    
+    Neurodevelopmental MRI Database
+  </a>
+
 
 </div>
 
@@ -622,6 +638,21 @@
       <p>My colleagues and I are estimating brain network activity in children (infants and toddlers) using both neural and hemodynamic methods. We then use these estimates to predict neurodevelopmental outcome later in life as quantified by Mullen and WPPSI tests. We expect that the combined brain network connectivity measures calculated using combined electroencephalography (EEG) and functional near-infrared spectroscopy (fNIRS) will be more informative than metrics calculated from either modality alone. To accomplish this task, we are using an MRI-based localization scheme (inverse reconstruction) to project both modalities to a common brain space for each individual.  The children in this project had EEG and fNIRS data collected with comparable baseline paradigms in two different sections.</p>
 
 <p>We will compare the functional connectivity from both modalities within the same network(s) and between the same brain ROIs. The brain functional connectivity and network (e.g., graph theory) measures from both metrics will then be associated with adverse experiences (e.g., SES and inflammation) and will be used to predict cognitive outcomes. The predictive power of each modality and class of metrics will be assessed separately and together.</p>
+
+<p><strong>Analysis plan</strong>
+<strong><em>Datasets</em></strong>
+The Bangladesh Early Adversity Neuroimaging (BEAN) dataset collected at 6, 24 and 36 months will be analyzed. This dataset was collected in a cohort of children exposed to early adversity as a consequence of growing up in an urban low-income neighborhood in Dhaka, Bangladesh. Task-free fNIRS and EEG were collected in each of these participants, and they also have neurodevelopmental outcomes measured at later time points (e.g., 24, 36 and 48 months). The BEAN dataset will be combined with the Neurodevelopmental MRI Database, which provides age appropriate MRIs, in order to do analyses for both EEG and fNIRS in brain space.</p>
+
+<p><strong><em>Connectivity profiles in EEG and fNIRS</em></strong>
+Brain functional connectivity analysis will be conducted with EEG and fNIRS data for each participant.  The fNIRS functional connectivity will be estimated between the virtual channels on the scalp with corresponding 10-10 or 10-20 locations, as well as between cortical ROIs “localized” with the scalp-level fNIRS signals for both HbO and HbR signals using our recently developed inverse reconstruction methods (for fNIRS data). EEG functional connectivity will be estimated in different frequency bands (e.g., theta, alpha, beta, and gamma) between the 10-10, 10-20 locations corresponding to the fNIRS virtual channels on the scalp, as well as the cortical regions of interest (ROIs) in the brain that are reconstructed with EEG source analysis.</p>
+
+<p>It should be noted that the inverse cortical reconstruction process will result in cortical activation in the same brain voxels (i.e., common space) for the two modalities. Inverse source reconstruction applies a spatial filter to signals recorded from the scalp to provide an estimate of the signal in “neural space.”  Thus, the frame of analysis is no longer the external scalp location where the recording was done, but the cortical generators of scalp signal. One advantage of this method for the current project is that brain connectivity can be estimated from separately recorded EEG and fNIRS and reconstructed in a commensurable recording space, allowing for direct comparison in brain network activity between modalities.</p>
+
+<p>Seed-based connectivity analysis will be conducted for both modalities using the same 10-10 locations and ROIs. The cortical areas detected by the fNIRS channels will be used as the “seeds”. The brain voxels/volumes in these seed areas will be used as the target sources for EEG connectivity analysis.  As a result, cortical functional connectivity can be estimated for the two modalities (EEG and fNIRS) between the same brain ROIs for each participant.</p>
+
+<p>Age-appropriate structural MRIs will be used for the localization of the fNIRS and EEG signals.  An anatomical MRI close in head size and age will be selected for each Bangladeshi infant from the Neurodevelopmental MRI Database (Richards, Sanchez, Phillips-Meek, &amp; Xie, 2016). Utilizing age-appropriate MRIs will improve the accuracy of the localization of EEG and fNIRS signals (Lloyd-Fox et al., 2014; Xie, Mallin, &amp; Richards, 2018; Xie &amp; Richards, 2017). This is especially important for infant participants, as changes in size, structure, and topology of the brain occur even within a narrowly defined age range.</p>
+
+<p>Graph theory measures will finally be applied to capture the organization and overall architecture of the brain networks defined with EEG and fNIRS signals. Degree of nodes, betweeness centrality, and hub dependence will be measured to estimate the organization of the fNIRS and EEG brain networks, e.g., which brain areas are hubs in the brain functional networks during the task-free state. Path length, clustering coefficient, and small-worldness will be estimated to measure the local and global network efficiency in information transmission.</p>
 
     </div>
 
