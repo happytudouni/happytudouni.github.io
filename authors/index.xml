@@ -5,7 +5,7 @@
     <link>https://happytudouni.github.io/authors/</link>
       <atom:link href="https://happytudouni.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://happytudouni.github.io/img/static/img/LABID.jpg</url>
       <title>Authors</title>
@@ -13,57 +13,9 @@
     </image>
     
     <item>
-      <title>Rashidul Haque</title>
-      <link>https://happytudouni.github.io/authors/rashidul-haque/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://happytudouni.github.io/authors/rashidul-haque/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shahria Kakon</title>
-      <link>https://happytudouni.github.io/authors/shahria-kakon/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://happytudouni.github.io/authors/shahria-kakon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Swapna Kumar</title>
-      <link>https://happytudouni.github.io/authors/swapna-kumar/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://happytudouni.github.io/authors/swapna-kumar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wanze Xie</title>
-      <link>https://happytudouni.github.io/authors/wanze-xie/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://happytudouni.github.io/authors/wanze-xie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>William A. Petri</title>
-      <link>https://happytudouni.github.io/authors/william-a.-petri/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://happytudouni.github.io/authors/william-a.-petri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>and Charles A. Nelson</title>
-      <link>https://happytudouni.github.io/authors/and-charles-a.-nelson/</link>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://happytudouni.github.io/authors/and-charles-a.-nelson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Alissa Westerlund</title>
       <link>https://happytudouni.github.io/authors/alissa-westerlund/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://happytudouni.github.io/authors/alissa-westerlund/</guid>
       <description></description>
     </item>
@@ -71,16 +23,64 @@
     <item>
       <title>Mark Wade</title>
       <link>https://happytudouni.github.io/authors/mark-wade/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://happytudouni.github.io/authors/mark-wade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rashidul Haque</title>
+      <link>https://happytudouni.github.io/authors/rashidul-haque/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/authors/rashidul-haque/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sarah K.G. Jensen</title>
       <link>https://happytudouni.github.io/authors/sarah-k.g.-jensen/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://happytudouni.github.io/authors/sarah-k.g.-jensen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shahria Kakon</title>
+      <link>https://happytudouni.github.io/authors/shahria-kakon/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/authors/shahria-kakon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swapna Kumar</title>
+      <link>https://happytudouni.github.io/authors/swapna-kumar/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/authors/swapna-kumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wanze Xie</title>
+      <link>https://happytudouni.github.io/authors/wanze-xie/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/authors/wanze-xie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William A. Petri</title>
+      <link>https://happytudouni.github.io/authors/william-a.-petri/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/authors/william-a.-petri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and Charles A. Nelson</title>
+      <link>https://happytudouni.github.io/authors/and-charles-a.-nelson/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/authors/and-charles-a.-nelson/</guid>
       <description></description>
     </item>
     
