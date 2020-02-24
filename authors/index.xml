@@ -5,12 +5,44 @@
     <link>https://happytudouni.github.io/authors/</link>
       <atom:link href="https://happytudouni.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://happytudouni.github.io/img/static/img/LABID.jpg</url>
       <title>Authors</title>
       <link>https://happytudouni.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>John E. Richards</title>
+      <link>https://happytudouni.github.io/authors/john-e.-richards/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/authors/john-e.-richards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maggie W. Guy</title>
+      <link>https://happytudouni.github.io/authors/maggie-w.-guy/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/authors/maggie-w.-guy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefania Conte</title>
+      <link>https://happytudouni.github.io/authors/stefania-conte/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/authors/stefania-conte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wanze Xie and Jane E. Roberts</title>
+      <link>https://happytudouni.github.io/authors/wanze-xie-and-jane-e.-roberts/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/authors/wanze-xie-and-jane-e.-roberts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Borjan Gagoski</title>
@@ -153,22 +185,6 @@
       <link>https://happytudouni.github.io/authors/chuanji-gao/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://happytudouni.github.io/authors/chuanji-gao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John E. Richards</title>
-      <link>https://happytudouni.github.io/authors/john-e.-richards/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://happytudouni.github.io/authors/john-e.-richards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stefania Conte</title>
-      <link>https://happytudouni.github.io/authors/stefania-conte/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://happytudouni.github.io/authors/stefania-conte/</guid>
       <description></description>
     </item>
     
