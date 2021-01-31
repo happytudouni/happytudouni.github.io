@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Douglas Wedell | Wanze Xie</title>
+    <link>https://happytudouni.github.io/authors/douglas-wedell/</link>
+      <atom:link href="https://happytudouni.github.io/authors/douglas-wedell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Douglas Wedell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://happytudouni.github.io/img/static/img/LABID.jpg</url>
+      <title>Douglas Wedell</title>
+      <link>https://happytudouni.github.io/authors/douglas-wedell/</link>
+    </image>
+    
+    <item>
+      <title>Evoked and induced power oscillations linked to audiovisual integration of affect</title>
+      <link>https://happytudouni.github.io/publication/gao-2020-biopsy/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/gao-2020-biopsy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

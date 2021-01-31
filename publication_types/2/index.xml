@@ -5,12 +5,36 @@
     <link>https://happytudouni.github.io/publication_types/2/</link>
       <atom:link href="https://happytudouni.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://happytudouni.github.io/img/static/img/LABID.jpg</url>
       <title>2</title>
       <link>https://happytudouni.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Converging neural and behavioral evidence for a rapid, generalized response to threat-related facial expressions in 3-year-old children</title>
+      <link>https://happytudouni.github.io/publication/xie-2021-ni/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/xie-2021-ni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evoked and induced power oscillations linked to audiovisual integration of affect</title>
+      <link>https://happytudouni.github.io/publication/gao-2020-biopsy/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/gao-2020-biopsy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group penalized generalized estimating equation for correlated event-related potentials and biomarker selection</title>
+      <link>https://happytudouni.github.io/publication/lin-2020-bmc/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/lin-2020-bmc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Face-sensitive brain responses in the first year of life</title>

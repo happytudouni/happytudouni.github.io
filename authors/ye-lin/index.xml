@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ye Lin | Wanze Xie</title>
+    <link>https://happytudouni.github.io/authors/ye-lin/</link>
+      <atom:link href="https://happytudouni.github.io/authors/ye-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ye Lin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://happytudouni.github.io/img/static/img/LABID.jpg</url>
+      <title>Ye Lin</title>
+      <link>https://happytudouni.github.io/authors/ye-lin/</link>
+    </image>
+    
+    <item>
+      <title>Group penalized generalized estimating equation for correlated event-related potentials and biomarker selection</title>
+      <link>https://happytudouni.github.io/publication/lin-2020-bmc/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/lin-2020-bmc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
