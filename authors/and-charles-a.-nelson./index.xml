@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>and Charles A. Nelson | Wanze Xie</title>
-    <link>https://happytudouni.github.io/authors/and-charles-a.-nelson/</link>
-      <atom:link href="https://happytudouni.github.io/authors/and-charles-a.-nelson/index.xml" rel="self" type="application/rss+xml" />
-    <description>and Charles A. Nelson</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <title>and Charles A. Nelson. | Wanze Xie</title>
+    <link>https://happytudouni.github.io/authors/and-charles-a.-nelson./</link>
+      <atom:link href="https://happytudouni.github.io/authors/and-charles-a.-nelson./index.xml" rel="self" type="application/rss+xml" />
+    <description>and Charles A. Nelson.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://happytudouni.github.io/img/static/img/LABID.jpg</url>
-      <title>and Charles A. Nelson</title>
-      <link>https://happytudouni.github.io/authors/and-charles-a.-nelson/</link>
+      <title>and Charles A. Nelson.</title>
+      <link>https://happytudouni.github.io/authors/and-charles-a.-nelson./</link>
     </image>
+    
+    <item>
+      <title>Converging neural and behavioral evidence for a rapid, generalized response to threat-related facial expressions in 3-year-old children</title>
+      <link>https://happytudouni.github.io/publication/xie-2021-ni/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/xie-2021-ni/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Growth faltering is associated with altered brain functional connectivity and cognitive outcomes in urban Bangladeshi children exposed to early adversity</title>

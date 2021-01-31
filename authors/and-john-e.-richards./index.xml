@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>and John E. Richards. | Wanze Xie</title>
+    <link>https://happytudouni.github.io/authors/and-john-e.-richards./</link>
+      <atom:link href="https://happytudouni.github.io/authors/and-john-e.-richards./index.xml" rel="self" type="application/rss+xml" />
+    <description>and John E. Richards.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://happytudouni.github.io/img/static/img/LABID.jpg</url>
+      <title>and John E. Richards.</title>
+      <link>https://happytudouni.github.io/authors/and-john-e.-richards./</link>
+    </image>
+    
+    <item>
+      <title>Development of brain functional connectivity and its relation to infant sustained attention in the first year of life</title>
+      <link>https://happytudouni.github.io/publication/xie-2019-fc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/xie-2019-fc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of infant sustained attention and its relation to EEG oscillations: An EEG and cortical source analysis study</title>
+      <link>https://happytudouni.github.io/publication/xie-2018-attnpow/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://happytudouni.github.io/publication/xie-2018-attnpow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
