@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lindsay C. Bowman | Wanze Xie</title>
-    <link>https://happytudouni.github.io/authors/lindsay-c.-bowman/</link>
-      <atom:link href="https://happytudouni.github.io/authors/lindsay-c.-bowman/index.xml" rel="self" type="application/rss+xml" />
-    <description>Lindsay C. Bowman</description>
+    <title>Michelle Bosquet Enlow and Charles A. Nelson | Wanze Xie</title>
+    <link>https://happytudouni.github.io/authors/michelle-bosquet-enlow-and-charles-a.-nelson/</link>
+      <atom:link href="https://happytudouni.github.io/authors/michelle-bosquet-enlow-and-charles-a.-nelson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michelle Bosquet Enlow and Charles A. Nelson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://happytudouni.github.io/img/static/img/LABID.jpg</url>
-      <title>Lindsay C. Bowman</title>
-      <link>https://happytudouni.github.io/authors/lindsay-c.-bowman/</link>
+      <title>Michelle Bosquet Enlow and Charles A. Nelson</title>
+      <link>https://happytudouni.github.io/authors/michelle-bosquet-enlow-and-charles-a.-nelson/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://happytudouni.github.io/publication/bowman-2021-jcpp/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       <guid>https://happytudouni.github.io/publication/bowman-2021-jcpp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural correlates of facial emotion processing in infancy</title>
-      <link>https://happytudouni.github.io/publication/xie-2019-emotion/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://happytudouni.github.io/publication/xie-2019-emotion/</guid>
       <description></description>
     </item>
     
